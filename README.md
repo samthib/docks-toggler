@@ -1,6 +1,6 @@
-# docks-toggler package
-
-Open and close your left, right and bottom docks in atom with a list of shortcuts.
+# Docks toggler package for atom
+ 
+Open and close your left, right and bottom docks in atom only with shortcuts.
 
 Installation
 ------------
