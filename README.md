@@ -21,7 +21,7 @@ apm install docks-toggler
 
 **Dock on the right :** <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>⇨</kbd>
 
-**Dock on the bottom :** <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>⇦</kbd>
+**Dock on the bottom :** <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>⇩</kbd>
 
 
 ![Screenshot](https://github.com/samthib/docks-toggler/blob/master/docks-toggler.gif)
