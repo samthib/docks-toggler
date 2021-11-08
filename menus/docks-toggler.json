@@ -1,0 +1,42 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle toggle-docks-right",
+        "command": "toggle-docks:right"
+      },
+      {
+        "label": "Toggle toggle-docks-left",
+        "command": "toggle-docks:left"
+      },
+      {
+        "label": "Toggle toggle-docks-bottom",
+        "command": "toggle-docks:bottom"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "toggle-docks",
+          "submenu": [
+            {
+              "label": "Toggle Docks Right",
+              "command": "toggle-docks:right"
+            },
+            {
+              "label": "Toggle Docks Left",
+              "command": "toggle-docks:left"
+            },
+            {
+              "label": "Toggle Docks Bottom",
+              "command": "toggle-docks:bottom"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "docks-toggler",
+  "main": "./lib/docks-toggler",
+  "version": "0.0.0",
+  "description": "Open and close any of the docks with shortcuts",
+  "keywords": [
+    "Docks"
+  ],
+  "repository": "https://github.com/atom/docks-toggler",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-right": "docks-toggler:right",
+    "ctrl-alt-left": "docks-toggler:left",
+    "ctrl-alt-down": "docks-toggler:bottom"
+  }
+}
