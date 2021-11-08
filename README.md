@@ -1,5 +1,48 @@
 # docks-toggler package
 
-A short description of your package.
+Open and close your left, right and bottom docks in atom with a list of shortcuts.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Installation
+------------
+Open **Settings** → **Install** and search for `docks-toggler`.
+
+Alternatively, install through command-line:
+
+```
+apm install docks-toggler
+```
+
+
+## Commands
+
+### Default shortcuts :
+
+**Dock on the left :** <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>⇦</kbd>
+
+**Dock on the right :** <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>⇨</kbd>
+
+**Dock on the bottom :** <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>⇦</kbd>
+
+
+![Screenshot](https://github.com/samthib/docks-toggler/blob/master/docks-toggler.gif)
+
+
+### Customized shortcuts :
+
+Customize with the shortcuts of your choice :
+
+**Shortcuts file :** [`keymaps/docks-toggler.json`](./keymaps/docks-toggler.json)
+
+```json
+{
+  "atom-workspace": {
+    "ctrl-alt-right": "docks-toggler:right",
+    "ctrl-alt-left": "docks-toggler:left",
+    "ctrl-alt-down": "docks-toggler:bottom"
+  }
+}
+```
+
+## Author
+
+**Website :** [`samuel-thibault.fr`](http://samuel-thibault.fr)
