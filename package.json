@@ -6,7 +6,7 @@
   "keywords": [
     "Docks"
   ],
-  "repository": "https://github.com/atom/docks-toggler",
+  "repository": "https://github.com/samthib/docks-toggler",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
