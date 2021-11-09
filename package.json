@@ -1,7 +1,7 @@
 {
   "name": "docks-toggler",
   "main": "./lib/docks-toggler",
-  "version": "2.0.0",
+  "version": "0.0.0",
   "description": "Open and close any of the docks with shortcuts",
   "keywords": [
     "Docks"
