@@ -1,28 +1,28 @@
 # Docks toggler package for Atom
- 
+
  ![](https://img.shields.io/badge/version-v1.0.0-orange)
  ![](https://img.shields.io/badge/license-MIT-green)
  ![](https://img.shields.io/badge/amp-v1.0.0-red)
- 
+
 Open and close your left, right and bottom docks in Atom only with shortcuts.
 
 <!--
 ## License
 
 **MIT :** ![](https://img.shields.io/github/license/samthib/docks-toggler)
-**MIT :** ![](https://img.shields.io/badge/license-MIT-green) 
+**MIT :** ![](https://img.shields.io/badge/license-MIT-green)
 
 ## Version
 
 **Version :** ![](https://img.shields.io/github/package-json/v/samthib/docks-toggler)
-**Version :** ![](https://img.shields.io/badge/version-1.0.0-orange) 
-**Version APM :** ![](https://img.shields.io/badge/apm/l/docks-toggler) 
+**Version :** ![](https://img.shields.io/badge/version-1.0.0-orange)
+**Version APM :** ![](https://img.shields.io/badge/apm/l/docks-toggler)
 
 ## Stats
-![](https://img.shields.io/badge/github/stars/samthib/docks-toggler?style=social) 
-![](https://img.shields.io/github/stars/samthib/docks-toggler) 
+![](https://img.shields.io/badge/github/stars/samthib/docks-toggler?style=social)
+![](https://img.shields.io/github/stars/samthib/docks-toggler)
 ![](https://img.shields.io/github/issues/samthib/docks-toggler)
-![](https://img.shields.io/github/forks/samthib/docks-toggler) 
+![](https://img.shields.io/github/forks/samthib/docks-toggler)
 -->
 
 ## Table of contents
@@ -82,4 +82,4 @@ Customize with the shortcuts of your choice :
 * **Website :** [`samuel-thibault.fr`](http://samuel-thibault.fr)
 * **Contact :** [`contact@samuel-thibault.fr`](mailto:contact@samuel-thibault.fr)
 * **GitHub :** [`github.com/samthib`](https://github.com/samthib)
-* **Linkedin :** [`github.com/samthib`](https://www.linkedin.com/in/samuel-thibault-1528481b1/)
+* **Linkedin :** [`linkedin.com/in/samuel-thibault-1528481b1/`](https://www.linkedin.com/in/samuel-thibault-1528481b1/)
