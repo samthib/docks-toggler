@@ -15,7 +15,8 @@ Open and close your left, right and bottom docks in Atom only with shortcuts.
 - [Package description](#docks-toggler-package-for-atom)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
-    - [From the Atom menu](#from-the-atom-menu)
+    - [From the Atom menu](#from-the-atom-menu)    
+    - [From the Atom website](#from-the-atom-website)
     - [From the command line](#from-the-command-line)
 - [Usage](#usage)
     - [Default shortcuts](#default-shortcuts)
@@ -24,6 +25,12 @@ Open and close your left, right and bottom docks in Atom only with shortcuts.
 
 ## Installation
 
+### From the Atom website
+
+Go to [`docks-toggler`](https://atom.io/packages/docks-toggler)
+
+Click **Install**
+ 
 ### From the Atom menu
 
 Open **Settings** → **Install** and search for `docks-toggler`.
